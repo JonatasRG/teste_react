@@ -1,0 +1,38 @@
+{
+    "bg": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_78456203_97224.jpg",
+    
+    "title": "Bolso Quiz",
+    "description": "Teste seu conhecimentos sobre o mítico presidente do Brasil Jair Bolsonaro!",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/l0O9ytRwprtcB57Py/giphy.gif",
+        "title": "Quando será possivel dormir normalmente apos o nascimento de uma filha?",
+        "description": "Muito importante saber",
+        "answer": 0,
+        "alternatives": [
+          "Nunca",
+          "duas semanas depois",
+          "nos finais de semana",
+          "dia sim, dia não"
+        ]
+      }
+    ],
+    "external": [
+      "https://theofficequiz.brunaguedes92.vercel.app",
+      "https://aluraquiz-css.omariosouto.vercel.app",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app",
+      "https://quiz-react.brenoha.vercel.app"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#0d47a166",
+        "secondary": "#ffea0",
+        "mainBg": "#171B3566",
+        "white": "#FFFFFF",
+        "wrong": "#E92929",
+        "success": "#49AA26"
+      },
+      "borderRadius": "5px"
+    }
+  }
+
